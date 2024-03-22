@@ -6,6 +6,7 @@
 [![X](https://img.shields.io/badge/X-%230A0A0A.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/naxeion)
 [![Telegram](https://img.shields.io/badge/Telegram-0A0A0A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/naxeion)
 
+<!--
 \
 \
 ![Rust language](https://img.shields.io/badge/Rust-0A0A0A?style=for-the-badge&logo=rust&logoColor=white)
@@ -25,5 +26,6 @@
 ![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-0A0A0A?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-0A0A0A?style=for-the-badge&logo=git&logoColor=white)
+-->
 
 </div>
