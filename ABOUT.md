@@ -1,3 +1,16 @@
+<!-- ![X](https://img.shields.io/badge/X-%230A0A0A.svg?style=for-the-badge&logo=X&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-0A0A0A?style=for-the-badge&logo=telegram&logoColor=white)
+![Threads](https://img.shields.io/badge/Threads-0A0A0A?style=for-the-badge&logo=Threads&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=white)
+\
+![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
+![Medium](https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white)
+![Reddit](https://img.shields.io/badge/Reddit-0A0A0A?style=for-the-badge&logo=reddit&logoColor=white)
+\
+![Protonmail](https://img.shields.io/badge/ProtonMail-0A0A0A?style=for-the-badge&logo=protonmail&logoColor=white)
+![Tutanota](https://img.shields.io/badge/Tutanota-0A0A0A?style=for-the-badge&logo=Tutanota&logoColor=white)
+-->
+
 <!--### Languages
 ![Rust language](https://img.shields.io/badge/Rust-0A0A0A?style=for-the-badge&logo=rust&logoColor=white)
 ![C# language](https://img.shields.io/badge/C%23-0A0A0A?style=for-the-badge&logo=c-sharp&logoColor=white)
